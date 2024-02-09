@@ -7,6 +7,6 @@ using namespace std;
 
 int main()
 {
-    cout << "For the test branch's eyes only!";
+    cout << "Goodbye World!";
 }
 
